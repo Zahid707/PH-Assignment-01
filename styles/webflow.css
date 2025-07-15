@@ -17,7 +17,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 50px 150px;
+    margin: 0px 150px;
 }
 
 .nav-title {
@@ -47,10 +47,10 @@ nav li a {
     border: none;
 }
 .secondary-background{
-
+    background-color: #D6DDED;
 }
 .home-background{
-    
+    background-image: url(../Assets/Hero-bg.png);  
 }
 .banner{
     text-align: center;
