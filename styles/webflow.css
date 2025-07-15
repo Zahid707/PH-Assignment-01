@@ -36,28 +36,61 @@ nav li a {
     font-weight: bold;
 
 }
+
 /* shared styles */
-.btn-primary{
-    background-color:#4E47FF ;
+.btn-primary {
+    background-color: #4E47FF;
     font-weight: bold;
     font-size: 16px;
     color: #FFFFFF;
-    padding: 12px 36px ;
+    padding: 12px 36px;
     border-radius: 10px;
     border: none;
 }
-.secondary-background{
+
+.secondary-background {
     background-color: #D6DDED;
 }
-.home-background{
-    background-image: url(../Assets/Hero-bg.png);  
+
+.home-background {
+    background-image: url(../Assets/Hero-bg.png);
 }
-.banner{
+
+.banner {
     text-align: center;
-    
+
     padding: 158px 267px 152px 267px;
 }
-.banner-title{
+
+.banner-title {
     font-weight: bold;
     font-size: 65px;
+}
+
+.bannertwo {
+    display: flex;
+    justify-content: space-between;
+    margin: -40px 159px 0px 141px;
+}
+
+.banner2-title {
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.banner2-description {
+    font-weight: 300;
+    font-size: 24;
+    color: rgba(37, 36, 50, 0.5);
+}
+
+.banner2-contents {
+    max-width: 350px;
+    max-height: 203px;
+}
+
+.banner2-pic {
+    max-width: 403px;
+    max-height: 328px;
+    border-radius: 48px;
 }
