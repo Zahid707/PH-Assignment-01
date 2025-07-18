@@ -167,9 +167,10 @@ nav li a {
     display: flex;
     gap: 20px;
     padding: 24px;
-    border-color: #F2EDED;   
+    border-color: #F2EDED;
 }
-.review{
+
+.review {
     background-color: #FFFFFF;
     border-radius: 14px;
     padding: 24px;
@@ -200,7 +201,7 @@ nav li a {
     margin: 0px;
 }
 
-.reviewer{
+.reviewer {
     font-weight: 600px;
     font-size: 16px;
     color: #757575;
@@ -221,4 +222,30 @@ nav li a {
     display: block;
 }
 
-/* main styles */
+.page5 {
+    text-align: center;
+    margin: 137px 150px 92px 150px;
+    padding: 71px 150px 71px 150px;
+    background-color: #FFFFFF;
+    border-radius: 14px;
+}
+
+.page5-title {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.page-description {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.page5-contents {
+    margin: 20px 0px 20px 0px;
+}
+
+.page5-pic {
+    width: 840px;
+    height: 365px;
+    border-radius: 24px;
+}
